@@ -43,6 +43,17 @@ Temos 1 pasta e 2 arquivos para a execução final:
 
 
 
+
+
+- Para a conexão no power bi, deixei um server online no PostgreeSQL
+
+![ultima parte](https://github.com/gukshenrique/Dashboard-Financeiro/assets/97614116/ace25635-51db-46e2-89fa-5d236a7762d3)
+
+
+
+
+
+
   
 
 
