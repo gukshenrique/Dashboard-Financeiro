@@ -77,7 +77,7 @@ def obter_tipo_conta():
 conn = psycopg2.connect(
     dbname="Dados",
     user="Gustavo",
-    password="20ju22li",
+    password="####",
     host="localhost"
 )
 
