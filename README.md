@@ -2,7 +2,7 @@
 
 De modo a estudo, este dashboard foi criado com informações de cartão de crédito, para fins de aprendizagens e portfolio de meus projetos.
 
-[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzRjYTEwNGEtM2U2MC00NDNjLThmMmItOTMwZjcyY2IxYTc0IiwidCI6Ijk3MDJhNGE5LTk3ZGEtNDAwMS1hZDQ0LTMyZjNlNzY2MmY3YyJ9)
+[Visualizar Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMTIxZjAzNzYtZDVhNi00ZWZjLWI0MWEtNWQ2NGRjYTQxNGZhIiwidCI6Ijk3MDJhNGE5LTk3ZGEtNDAwMS1hZDQ0LTMyZjNlNzY2MmY3YyJ9)
 
 
 Antes de iniciar o projeto, fiz um fluxograma para nao me perder nas etapas
